@@ -1,4 +1,4 @@
-# quadratic
+# quadratic ![](https://img.shields.io/gem/v/quadratic.svg)
 
 Just a simple quadratic equation solver.
 
